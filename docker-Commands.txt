@@ -1,0 +1,5 @@
+
+1. go to D:\Projects\Certifications\Azure Developer Certification\AZ-204\Docker
+
+2. run command: 
+   docker build --pull -t aspnetapp .
